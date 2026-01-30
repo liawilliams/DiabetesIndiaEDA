@@ -14,13 +14,13 @@ TBC
 
 ## **Methodology**
 The dataset provided was pre-processed to ensure it was ready for analysis. 
-Pre-processing included cleaning the data by addressing missing values and ensuring format consistency, 
+Pre-processing included cleaning the data by addressing missing values, outliers and ensuring format consistency, 
 integrating datasets, transforming data where necessary, normalising numerical features using 1NF normalisation, 
 and reducing the data to eliminate redundancies while maintaining analytical quality.
 <br>
 
 Data analysis was conducted using RStudio, 
-Seaborn for visualisations, and Plotly for interactive charts.
+TBC for visualisations, and TBC for interactive charts.
 <br>
 
 [Read more](methodology.md)
